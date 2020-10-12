@@ -7,6 +7,7 @@ Developers:
 3) Mahankov Danil — Level Designer, Graphics Designer, Programer;
 4) Semenov Daniil — Tester, Programmer;
 
+
 SunnyLandProject — университетский проект для предмета Технология Производства Программного Обеспечения.
 
 Разработчики:
